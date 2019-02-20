@@ -1,8 +1,9 @@
-#################added from https://github.com/chenxi0329/bashrc/blob/master/bash_aliases ###########3
+#################added from https://github.com/chenxi0329/bashrc/blob/master/bash_aliases ###########
 #vim profile
 alias vp='vim ~/.bash_profile'
 
 #source profile
+alias g='git'
 alias sp='source ~/.bash_profile'
 alias gb='git branch'
 alias gc='git checkout'
