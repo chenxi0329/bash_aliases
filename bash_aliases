@@ -1,6 +1,6 @@
 #################added from https://github.com/chenxi0329/bashrc/blob/master/bash_aliases ###########3
 #vim profile
-alias vp='vim ~/.bash_profile
+alias vp='vim ~/.bash_profile'
 
 #source profile
 alias sp='source ~/.bash_profile'
