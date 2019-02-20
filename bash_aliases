@@ -1,4 +1,4 @@
-#################added from https://github.com/chenxi0329/bashrc/blob/master/bash_aliases ###########
+#################https://github.com/chenxi0329/bash_aliases/blob/master/bash_aliases###########
 #vim profile
 alias vp='vim ~/.bash_profile'
 
