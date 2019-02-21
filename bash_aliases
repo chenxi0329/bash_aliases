@@ -31,3 +31,5 @@ alias gpb='git checkout -'
 #git big stash
 alias gbs='git add -A; git commit -m "big rebase"'
 
+#git status all
+alias gsa='gb;gs;read;gl'
