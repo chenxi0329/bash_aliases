@@ -22,8 +22,12 @@ alias gp='git pull'
 #git mainline
 alias gmb='git checkout mainline'
 
+#git rebase mainline
+alias grm='git rebase mainline'
+
 #git previous branch
 alias gpb='git checkout -'
 
 #git big stash
 alias gbs='git add *; git commit -m "big rebase"'
+
