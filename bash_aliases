@@ -9,7 +9,7 @@ alias g='git'
 #
 alias sp='source ~/.bash_profile'
 alias gb='git branch'
-alias gc='git commit'
+alias gc='git commit -m'
 alias gco='git checkout'
 alias gs='git status'
 alias gl='git log'
