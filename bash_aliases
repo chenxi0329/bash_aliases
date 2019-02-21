@@ -32,4 +32,4 @@ alias gpb='git checkout -'
 alias gbs='git add -A; git commit -m "big rebase"'
 
 #git status all
-alias gsa='gb;gs;read -p "press [ENTER] to check commit logs";gl'
+alias gsa='echo "";echo "BRANCH: ";echo "";gb;echo "";echo "STATUS: ";echo "";gs;echo "";read -p "press [ENTER] to check commit logs";gl'
