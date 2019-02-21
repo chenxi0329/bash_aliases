@@ -15,6 +15,7 @@ alias gs='git status'
 alias gl='git log'
 alias ga='git add'
 alias gp='git pull'
+alias gd='git diff'
 
 #
 #git advance
@@ -33,3 +34,6 @@ alias gbs='git add -A; git commit -m "big rebase"'
 
 #git status all
 alias gsa='echo "";echo "BRANCH: ";echo "";gb;echo "";echo "STATUS: ";echo "";gs;echo "";read -p "press [ENTER] to check commit logs";gl'
+
+#git diff staged
+alias gds='git diff --staged'
