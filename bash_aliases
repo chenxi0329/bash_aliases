@@ -4,6 +4,10 @@ alias vp='vim ~/.bash_profile'
 
 #source profile
 alias g='git'
+
+#
+#git basics
+#
 alias sp='source ~/.bash_profile'
 alias gb='git branch'
 alias gc='git checkout'
@@ -12,6 +16,9 @@ alias gl='git log'
 alias ga='git add'
 alias gp='git pull'
 
+#
+#git advance
+#
 #git mainline
 alias gmb='git checkout mainline'
 
