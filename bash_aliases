@@ -29,5 +29,5 @@ alias grm='git rebase mainline'
 alias gpb='git checkout -'
 
 #git big stash
-alias gbs='git add *; git commit -m "big rebase"'
+alias gbs='git add -A; git commit -m "big rebase"'
 
