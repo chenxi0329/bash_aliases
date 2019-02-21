@@ -35,4 +35,4 @@ alias gds='git diff --staged'
 #git add all
 alias gaa='git add -A'
 #git SQuash
-alias gsq='git rebase -i HEAD~'
+alias gsq='git rebase -i'
