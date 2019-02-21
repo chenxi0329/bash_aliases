@@ -16,7 +16,7 @@ alias gl='git log'
 alias ga='git add'
 alias gp='git pull'
 alias gd='git diff'
-alias gaa='git add -A"
+alias gaa='git add -A'
 
 #
 #git advance
