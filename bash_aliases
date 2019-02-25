@@ -22,8 +22,8 @@ alias gd='git diff'
 #
 #git mainline
 alias gmb='git checkout mainline'
-#git rebase mainline
-alias grm='git rebase mainline'
+#git Rebase
+alias gr='git rebase mainline'
 #git previous branch
 alias gpb='git checkout -'
 #git big stash
