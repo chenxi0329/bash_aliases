@@ -40,3 +40,6 @@ alias gsq='git rebase -i'
 
 #others
 alias p='pwd'
+alias l='ls'
+alias c='cd'
+alias c.='cd ..'
