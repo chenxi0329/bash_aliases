@@ -36,6 +36,8 @@ alias gds='git diff --staged'
 alias gaa='git add -A'
 #git SQuash
 alias gsq='git rebase -i'
+#Gitt Commit Ammend
+alias gca='git commit --amend'
 
 
 #others
