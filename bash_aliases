@@ -9,7 +9,7 @@ alias g='git'
 #
 alias sp='source ~/.bash_profile'
 alias gb='git branch'
-alias gc='git commit -m'
+alias gc='echo "Attach CR link whenever it shows up";git commit -m'
 alias gco='git checkout'
 alias gs='git status'
 alias gl='git log'
@@ -34,9 +34,9 @@ alias gsa='echo "";echo "BRANCH: ";echo "";gb;echo "";echo "STATUS: ";echo "";gs
 alias gds='git diff --staged'
 #git add all
 alias gaa='git add -A'
-#git SQuash
+#git squash
 alias gsq='git rebase -i'
-#Git Commit Ammend
+#Gitt Commit Ammend
 alias gca='git commit --amend'
 
 
@@ -45,3 +45,5 @@ alias p='pwd'
 alias l='ls'
 alias c='cd'
 alias c.='cd ..'
+
+source ~/.bash_profile_amzn
