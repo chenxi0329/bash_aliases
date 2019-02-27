@@ -39,7 +39,7 @@ alias gsq='git rebase -i'
 #Gitt Commit Ammend
 alias gca='git commit --amend'
 #Git Pull Rebase
-alias gpr='git pull --rebase"
+alias gpr='git pull --rebase'
 
 
 #others
