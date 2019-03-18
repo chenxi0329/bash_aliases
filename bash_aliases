@@ -1,13 +1,10 @@
 #################https://github.com/chenxi0329/bash_aliases/blob/master/bash_aliases###########
-#vim profile
 alias vp='vim ~/.bash_profile'
-#source profile
-alias g='git'
+alias sp='source ~/.bash_profile'
 
 #
 #git basics
 #
-alias sp='source ~/.bash_profile'
 alias gb='git branch'
 alias gc='echo "Attach CR link whenever it shows up";git commit -m'
 alias gco='git checkout'
@@ -47,5 +44,9 @@ alias p='pwd'
 alias l='ls'
 alias c='cd'
 alias c.='cd ..'
+
+
+#Anaconda
+alias ana='PATH=$PATH:~/anaconda3/bin'
 
 source ~/.bash_profile_amzn
