@@ -1,6 +1,6 @@
 #################https://github.com/chenxi0329/bash_aliases/blob/master/bash_aliases###########
-alias vp='vim ~/.bash_profile'
-alias sp='source ~/.bash_profile'
+alias vp='vim ~/.zshrc'
+alias sp='source ~/.zshrc'
 
 #
 #git basics
@@ -48,5 +48,6 @@ alias c.='cd ..'
 
 #Anaconda
 alias ana='PATH=$PATH:~/anaconda3/bin'
+
 
 source ~/.bash_profile_amzn
