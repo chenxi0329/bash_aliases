@@ -45,6 +45,10 @@ alias l='ls'
 alias c='cd'
 alias c.='cd ..'
 
+#SAM
+alias sap='sam package'
+alias sad='sam deploy'
+
 
 #Anaconda
 alias ana='PATH=$PATH:~/anaconda3/bin'
