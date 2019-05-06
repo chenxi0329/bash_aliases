@@ -49,6 +49,9 @@ alias c.='cd ..'
 alias sap='sam package'
 alias sad='sam deploy'
 
+#BB
+alias bbr='bb release'
+alias bbs='bb server'
 
 #Anaconda
 alias ana='PATH=$PATH:~/anaconda3/bin'
