@@ -1,6 +1,6 @@
 #################https://github.com/chenxi0329/bash_aliases/blob/master/bash_aliases###########
-alias vp='vim ~/.zshrc'
-alias sp='source ~/.zshrc'
+alias vp='vim ~/.bash_profile'
+alias sp='source ~/.bash_profile'
 
 #
 #git basics
@@ -50,6 +50,7 @@ alias sap='sam package'
 alias sad='sam deploy'
 
 #BB
+alias bb='brazil-build'
 alias bbr='bb release'
 alias bbs='bb server'
 
