@@ -53,6 +53,7 @@ alias sad='sam deploy'
 alias bb='brazil-build'
 alias bbr='bb release'
 alias bbs='bb server'
+alias use="brazil ws use -p"
 
 #Anaconda
 alias ana='PATH=$PATH:~/anaconda3/bin'
